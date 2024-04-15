@@ -1,3 +1,16 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
+from django.contrib import messages
+from django.core.paginator import Paginator
+from django.http import HttpResponseNotFound
+from faunadb import query as q
+import pytz
+from faunadb.objects import Ref
+from faunapidb.client import FaunaClient
+import hashlib
+import datetime
 
-# Create your views here.
+
+
+
+client = FaunaClient(secret="fnAFed-oSpAA0LJ9PSXSy1zvLKcSEaMZ7tWIHSWB")
+indexes = client.query(q.paginate(q.indexes()))
