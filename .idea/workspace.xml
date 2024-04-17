@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2fcc87e-7c6f-4812-90d8-bf4c129f85f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/static/Login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/answer_quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/create_questions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/create_quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quikz/Quiz/App/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quikz/Quiz/Quiz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/quikz/Quiz/Quiz/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2epLtQaIiafWTAzJWklwSzcyP3k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.answer_quiz.html.executor": "Run",
+    "JavaScript Debug.create_questions.html.executor": "Run",
+    "JavaScript Debug.dashboard.html.executor": "Run",
+    "JavaScript Debug.register.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "justyna",
+    "last_opened_file_path": "D:/byleco",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.answer_quiz.html">
+    <configuration name="answer_quiz.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Quikz/quikz/Quiz/App/templates/answer_quiz.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="create_questions.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Quikz/quikz/Quiz/App/templates/create_questions.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Quikz/quikz/Quiz/App/templates/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.answer_quiz.html" />
+        <item itemvalue="JavaScript Debug.create_questions.html" />
+        <item itemvalue="JavaScript Debug.register.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2fcc87e-7c6f-4812-90d8-bf4c129f85f8" name="Changes" comment="" />
+      <created>1712596787566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712596787566</updated>
+      <workItem from="1712596790237" duration="5762000" />
+      <workItem from="1712730004126" duration="1045000" />
+      <workItem from="1712830869706" duration="29000" />
+      <workItem from="1713352512214" duration="4342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
